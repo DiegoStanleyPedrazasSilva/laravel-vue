@@ -1,1 +1,1 @@
-Return status for relationship on 1/24/2018
+Fix typo in vuetable-2 dependencies section on 1/31/2018
