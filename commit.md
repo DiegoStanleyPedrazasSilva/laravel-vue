@@ -1,1 +1,1 @@
-Fix typo in vuetable-2 dependencies section on 1/29/2018
+Fix typo in vuetable-2 dependencies section on 1/31/2018
