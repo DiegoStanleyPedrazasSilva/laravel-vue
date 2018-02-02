@@ -1,1 +1,1 @@
-Fix typo in vuetable-2 dependencies section on 1/29/2018
+store installed on 2/2/2018
