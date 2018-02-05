@@ -1,1 +1,1 @@
-follow tutorial up to lesson-6 on 2/9/2018
+follow tutorial up to lesson-6 on 2/5/2018
