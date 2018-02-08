@@ -1,1 +1,1 @@
-store installed on 2/1/2018
+follow tutorial up to lesson-6 on 2/8/2018
