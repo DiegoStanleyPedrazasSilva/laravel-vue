@@ -1,1 +1,1 @@
-Laravel scout installed on 2/23/2018
+add new webpack dev server http access variable on 2/28/2018
