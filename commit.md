@@ -1,1 +1,1 @@
-add new webpack dev server http access variable on 2/28/2018
+Update app.js as MyVuetable.vue was updated on 3/2/2018
