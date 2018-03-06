@@ -1,1 +1,1 @@
-Update app.js as MyVuetable.vue was updated on 3/2/2018
+Unlike method created on 3/6/2018
