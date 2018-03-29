@@ -1,1 +1,1 @@
-Update package dependencies on 3/22/2018
+fix vue select props type warning on 3/29/2018
